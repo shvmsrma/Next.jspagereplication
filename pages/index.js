@@ -7,6 +7,7 @@ import Endorsements from '../components/endorsements';
 import Footer1 from '../components/footer1';
 import Footer2 from '../components/footer2'
 import ProjectHistory from '../components/projecthistory'
+import UserDetail from '../components/userdetails'
 
 const useStyles = makeStyles((theme) => ({
     
@@ -20,6 +21,7 @@ export default function Index() {
 
         <div style={{backgroundColor:'#F4F6F7'}}>
         <Smalls />
+        <UserDetail />
 
         <div style={{float:'left', margin:10}}>
             <NavTabs />
