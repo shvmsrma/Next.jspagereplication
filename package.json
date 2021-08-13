@@ -17,7 +17,7 @@
     "@material-ui/lab": "^4.0.0-alpha.49",
     "material-ui-icons": "^1.0.0-beta.36",
     "material-ui-image": "^3.2.3",
-    "next": "^9.3.5",
+    "next": "^11.1.0",
     "next-images": "^1.4.0",
     "react": "^16.13.1",
     "react-dom": "^16.13.1"
